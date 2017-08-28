@@ -1,3 +1,3 @@
 <?php
-	echo "Teste uso git";
+	echo "Teste alteração git";
 ?>
